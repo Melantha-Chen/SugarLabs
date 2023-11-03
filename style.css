@@ -1,5 +1,5 @@
 /* Reset some default browser styles */
-body, h1, h2, h3, p {
+body, h1, h2, h3, p , .rotation-container{
     margin: 0;
     padding: 0;
 }
@@ -120,9 +120,7 @@ article {
 
 .intro {
     width: 80%;
-    position:relative;
-    margin-top: 350px;
-    margin-left: 100px;
+    margin: auto;
     background-color: #996699;
     padding: 20px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
@@ -152,7 +150,7 @@ li {
 }
 
 .rotation_ul,.rotation-item {
-    padding-bottom: 40%;
+    padding-bottom: 50%;
 }
 
 .rotation-item {
@@ -253,5 +251,4 @@ table, th, tr {
     padding:20px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
 }
-
 
