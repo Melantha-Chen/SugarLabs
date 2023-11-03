@@ -129,7 +129,7 @@ article {
 
 * {
     padding: 10 auto;
-    margin: 100 auto;
+    margin: 10 auto;
     box-sizing: content-box;
 }
 
@@ -144,6 +144,7 @@ li {
 .rotation-container {
     width: 70%;
     position: relative;
+    justify-content: center;
     margin: 0 auto;
 }
 
