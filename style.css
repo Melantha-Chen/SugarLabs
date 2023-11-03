@@ -146,7 +146,7 @@ li {
     width: 70%;
     position: relative;
     justify-content: center;
-    margin: 0 auto;
+    margin:auto auto;
     display: flex;
     flex-direction: column;
 }
